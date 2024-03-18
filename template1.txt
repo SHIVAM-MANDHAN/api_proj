@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8" />
+		<title>Copy of Python - SHIVAM MANDHAN RESUME.docx</title>
+		<style>
+			body { widows:0; orphans:0; font-family:'Arial MT'; font-size:11pt }
+			h1, p { margin:0pt }
+			li { margin-top:0pt; margin-bottom:0pt }
+			h1 { margin-left:5pt; page-break-inside:auto; page-break-after:auto; widows:0; orphans:0; font-family:Arial; font-size:12pt; font-weight:bold; color:#000000 }
+			.BodyText { margin-top:0.6pt; margin-left:63.5pt; widows:0; orphans:0; font-family:'Arial MT'; font-size:12pt }
+			.ListParagraph { margin-top:0.6pt; margin-left:63.5pt; text-indent:-18pt; widows:0; orphans:0; font-family:'Arial MT'; font-size:11pt }
+			.TableParagraph { widows:0; orphans:0; font-family:'Arial MT'; font-size:11pt }
+			.Title { margin-top:1.45pt; margin-left:6.4pt; widows:0; orphans:0; font-family:'Arial MT'; font-size:14pt; text-decoration:underline }
+		</style>
+	</head>
+	<body>
+			<p style="margin-top:3.25pt; margin-left:7.25pt; font-size:18pt">
+				<strong><span style="font-family:Arial; letter-spacing:-0.15pt; background-color:#fff1cc">rep_fname</span></strong><strong><span style="font-family:Arial; letter-spacing:0.05pt; background-color:#fff1cc"> rep_lname</span></strong><strong><span style="font-family:Arial; letter-spacing:-0.15pt; background-color:#fff1cc"></span></strong><strong><span style="font-family:Arial; letter-spacing:-1.1pt"> </span></strong><span style="font-size:14pt; letter-spacing:-0.15pt">|</span><span style="font-size:14pt"> </span><span style="font-size:14pt; letter-spacing:-0.15pt">rep_mobile </span><span style="font-size:14pt; letter-spacing:-0.1pt">|</span><span style="font-size:14pt; letter-spacing:0.05pt"> rep_add</span><span style="font-size:14pt; letter-spacing:-0.1pt"></span>
+			</p>
+			<p class="Title">
+				rep_email<span style="letter-spacing:-0.4pt"> </span>&#xa0;
+			</p>
+			<p class="BodyText" style="margin-top:0.1pt; margin-left:0pt">
+				<span style="font-family:Roboto">&#xa0;</span>
+			</p>
+			<h1>
+				<span style="background-color:#fff1cc">Education</span>
+			</h1>
+			<p class="BodyText" style="margin-top:6.9pt; margin-right:73.05pt; margin-left:5pt; line-height:104%">
+				rep_clg | rep_degree<span style="letter-spacing:-0.3pt"> </span>|<span style="letter-spacing:-0.3pt"> </span>rep_year | rep_cgpa
+			</p>
+			<p class="BodyText" style="margin-top:0.35pt; margin-left:0pt; font-size:12.5pt">
+				&#xa0;
+			</p>
+			<h1>
+				<span style="background-color:#fff1cc">Technical</span><span style="letter-spacing:-0.45pt; background-color:#fff1cc"> </span><span style="background-color:#fff1cc">Skills</span>
+			</h1>
+			<p class="BodyText" style="margin-top:0.1pt; margin-left:5pt">
+				rep_skills
+			</p>
+			<p class="BodyText" style="margin-top:0.05pt; margin-left:0pt; font-size:12.5pt">
+				&#xa0;
+			</p>
+			<h1>
+				<span style="background-color:#fff1cc">Interests</span>
+			</h1>
+			<p class="BodyText" style="margin-top:6.85pt; margin-left:5pt">
+				rep_interest
+			</p>
+	<p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net" target="_blank" style="font-size:11px; color: #d0d0d0">Converted to HTML with WordToHTML.net</a></p>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"865dfe5bbaff3dfb","r":1,"version":"2024.2.4","token":"4581d6a58cf94e929fad52deda295622"}' crossorigin="anonymous"></script>
+</body>
+</html>
